@@ -1,56 +1,91 @@
-#EXTINF:-1,PROGRAMME NATIONAL
-http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6657
-#EXTINF:-1,CANAL ALGERIE
-http://megastar06.xyz:80/106053580958/318521198678565f0d323b/100716
-#EXTINF:-1,A3 ALGERIE
-http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6659
-#EXTINF:-1,TV 4 ALGERIE
-http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6660
-#EXTINF:-1,TV 5 ALGERIE
-http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6661
-#EXTINF:-1,TV 6 Algerie
-http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6662
-#EXTINF:-1,TV 7 ELMAARIFA
-http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6663
-#EXTINF:-1,ONE TV
-http://megastar06.xyz:80/106053580958/318521198678565f0d323b/148005
-#EXTINF:-1,TV8 EDHAKIRA
-http://megastar06.xyz:80/106053580958/318521198678565f0d323b/69450
-#EXTINF:-1,el djazair elkhairia
-http://megastar06.xyz:80/106053580958/318521198678565f0d323b/156692
-#EXTINF:-1,Amou Yazid TV
-http://megastar06.xyz:80/106053580958/318521198678565f0d323b/116859
-#EXTINF:-1,Bahia TV
-http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6678
-#EXTINF:-1,EL BILAD
-http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6668
-#EXTINF:-1,EL HAYAT TV ALGERIE
-http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6670
-#EXTINF:-1,EL HEDDAF TV
-http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6674
-#EXTINF:-1,Echorouk NEWS
-http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6666
-#EXTINF:-1,Echorouk TV
-http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6665
-#EXTINF:-1,ENNAHAR TV
-http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6664
-#EXTINF:-1,SamiraTV
-http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6675
-#EXTINF:-1,ZAHRA.TV.Algeria
-http://megastar06.xyz:80/106053580958/318521198678565f0d323b/66580
-#EXTINF:-1,EL FADJR TV DZ
-http://megastar06.xyz:80/106053580958/318521198678565f0d323b/148826
-#EXTINF:-1,El Djazair N1
-http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6682
-#EXTINF:-1,AR:Berbere.TV
-http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6672
-#EXTINF:-1,ELWATANIA TV ALGERIA
-http://megastar06.xyz:80/106053580958/318521198678565f0d323b/17537
-#EXTINF:-1,ALGERIAN 4KIDS
-http://megastar06.xyz:80/106053580958/318521198678565f0d323b/148057
-#EXTINF:-1,EL FADJR TV DZ
-http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6669
-#EXTINF:-1,AL ANIS TV ALG
-http://megastar06.xyz:80/106053580958/318521198678565f0d323b/17533
-#EXTINF:-1,AL24 NewsA
-http://megastar06.xyz:80/106053580958/318521198678565f0d323b/69458
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="AR| ALGERIA",##### ALGERIA #####
+http://premium-iptvesun.com:80/play/live.php?mac=00:1A:79:0B:36:26&stream=812197&extension=ts&play_token=0o0DuyUjLL
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/6724.png" group-title="AR| ALGERIA",AR| EN TV ALGERIA
+http://premium-iptvesun.com:80/play/live.php?mac=00:1A:79:0B:36:26&stream=6724&extension=ts&play_token=liOYom7C3S
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/6723.png" group-title="AR| ALGERIA",AR| CANAL ALGERIE
+http://premium-iptvesun.com:80/play/live.php?mac=00:1A:79:0B:36:26&stream=6723&extension=ts&play_token=jtyO7bDQWL
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/6722.png" group-title="AR| ALGERIA",AR| A3 ALGERIE
+http://premium-iptvesun.com:80/play/live.php?mac=00:1A:79:0B:36:26&stream=6722&extension=ts&play_token=FUfS5Ecglv
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/196191.png" group-title="AR| ALGERIA",AR| TV 6 ALGERIE
+http://premium-iptvesun.com:80/play/live.php?mac=00:1A:79:0B:36:26&stream=196191&extension=ts&play_token=jYMvBGP00E
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/6715.png" group-title="AR| ALGERIA",AR| ECHOUROUK TV
+http://premium-iptvesun.com:80/play/live.php?mac=00:1A:79:0B:36:26&stream=6715&extension=ts&play_token=nFSQdiTukX
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/6716.png" group-title="AR| ALGERIA",AR| ECHOUROUK NEWS
+http://premium-iptvesun.com:80/play/live.php?mac=00:1A:79:0B:36:26&stream=6716&extension=ts&play_token=XeFg859xJu
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/6700.png" group-title="AR| ALGERIA",AR| EL HEDDAF TV
+http://premium-iptvesun.com:80/play/live.php?mac=00:1A:79:0B:36:26&stream=6700&extension=ts&play_token=VwvWGiRbJD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/samiratv.png" group-title="AR| ALGERIA",AR| SAMIRA TV
+http://premium-iptvesun.com:80/play/live.php?mac=00:1A:79:0B:36:26&stream=6710&extension=ts&play_token=WonLXaZr3c
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/828228.png" group-title="AR| ALGERIA",AR| ZAHRA TV
+http://premium-iptvesun.com:80/play/live.php?mac=00:1A:79:0B:36:26&stream=828228&extension=ts&play_token=piTWYAuu14
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/21717.png" group-title="AR| ALGERIA",AR| EL BILAD
+http://premium-iptvesun.com:80/play/live.php?mac=00:1A:79:0B:36:26&stream=21717&extension=ts&play_token=sQItJdr62p
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/6708.png" group-title="AR| ALGERIA",AR| EL DJAZAIRIA TV
+http://premium-iptvesun.com:80/play/live.php?mac=00:1A:79:0B:36:26&stream=6708&extension=ts&play_token=2cRlEmd1lw
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/209712.png" group-title="AR| ALGERIA",AR| AL ANIS
+http://premium-iptvesun.com:80/play/live.php?mac=00:1A:79:0B:36:26&stream=209712&extension=ts&play_token=NGzzpcL0jh
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/976867.png" group-title="AR| ALGERIA",AR|  ALSIR TV 4K
+http://premium-iptvesun.com:80/play/live.php?mac=00:1A:79:0B:36:26&stream=976867&extension=ts&play_token=MBSkb4Yh2s
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/6717.png" group-title="AR| ALGERIA",AR| ENNAHAR TV
+http://premium-iptvesun.com:80/play/live.php?mac=00:1A:79:0B:36:26&stream=6717&extension=ts&play_token=7MicUZ4SfS
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/819617.png" group-title="AR| ALGERIA",AR| AL24 NEWS
+http://premium-iptvesun.com:80/play/live.php?mac=00:1A:79:0B:36:26&stream=819617&extension=ts&play_token=mOoWNd7udI
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/6709.png" group-title="AR| ALGERIA",AR| DZAIR JANNAH
+http://premium-iptvesun.com:80/play/live.php?mac=00:1A:79:0B:36:26&stream=6709&extension=ts&play_token=AbUoTBF7v1
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/6707.png" group-title="AR| ALGERIA",AR| BAHIA TV ORAN
+http://premium-iptvesun.com:80/play/live.php?mac=00:1A:79:0B:36:26&stream=6707&extension=ts&play_token=2ZwkW0KpBd
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/6718.png" group-title="AR| ALGERIA",AR| BEUR TV
+http://premium-iptvesun.com:80/play/live.php?mac=00:1A:79:0B:36:26&stream=6718&extension=ts&play_token=5In5tT1UJW
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/6727.png" group-title="AR| ALGERIA",AR| BERBERE TV
+http://premium-iptvesun.com:80/play/live.php?mac=00:1A:79:0B:36:26&stream=6727&extension=ts&play_token=IUddVHehpI
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/6703.png" group-title="AR| ALGERIA",AR| EL FADJR TV DZ
+http://premium-iptvesun.com:80/play/live.php?mac=00:1A:79:0B:36:26&stream=6703&extension=ts&play_token=K6vfgaRLkV
+#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/EL-FAJR-DRAMA.png" group-title="AR| ALGERIA",AR| EL FAJR DRAMA
+http://premium-iptvesun.com:80/play/live.php?mac=00:1A:79:0B:36:26&stream=892110&extension=ts&play_token=DSMTLk3JFm
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/809995.png" group-title="AR| ALGERIA",AR| EL HIKMA
+http://premium-iptvesun.com:80/play/live.php?mac=00:1A:79:0B:36:26&stream=809995&extension=ts&play_token=JwLeR04PDl
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/6721.png" group-title="AR| ALGERIA",AR| TV CORAN ALGERIE
+http://premium-iptvesun.com:80/play/live.php?mac=00:1A:79:0B:36:26&stream=6721&extension=ts&play_token=68JjUmXPML
+#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/tv4tamazight.png" group-title="AR| ALGERIA",AR| ALGERIE TAMAZIGH
+http://premium-iptvesun.com:80/play/live.php?mac=00:1A:79:0B:36:26&stream=6720&extension=ts&play_token=n3Yk8sdEcq
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/8167.png" group-title="AR| ALGERIA",AR| TV5 MAGHREB
+http://premium-iptvesun.com:80/play/live.php?mac=00:1A:79:0B:36:26&stream=8167&extension=ts&play_token=kfH4M9DfNO
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/550005.png" group-title="AR| ALGERIA",AR| EL DJAZAIR N1
+http://premium-iptvesun.com:80/play/live.php?mac=00:1A:79:0B:36:26&stream=550005&extension=ts&play_token=Qt3Zb1CNQV
+#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/tv4tamazight.png" group-title="AR| ALGERIA",AR| ALGERIA 4 TAMAZIGHT
+http://premium-iptvesun.com:80/play/live.php?mac=00:1A:79:0B:36:26&stream=83669&extension=ts&play_token=M8uEQeJuO1
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/83549.png" group-title="AR| ALGERIA",AR| AL THANYA
+http://premium-iptvesun.com:80/play/live.php?mac=00:1A:79:0B:36:26&stream=83549&extension=ts&play_token=8SEK32B1R1
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/84254.png" group-title="AR| ALGERIA",AR| EL HAYAT ALGERIA
+http://premium-iptvesun.com:80/play/live.php?mac=00:1A:79:0B:36:26&stream=84254&extension=ts&play_token=MbJLHhVBTi
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/274151.png" group-title="AR| ALGERIA",AR| CANAL ATLAS ALGERIA
+http://premium-iptvesun.com:80/play/live.php?mac=00:1A:79:0B:36:26&stream=274151&extension=ts&play_token=XWPSIq5TFH
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/518624.png" group-title="AR| ALGERIA",AR| ALGÉRIE CANAL TV 2
+http://premium-iptvesun.com:80/play/live.php?mac=00:1A:79:0B:36:26&stream=518624&extension=ts&play_token=KAgw1toY1Z
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/518623.png" group-title="AR| ALGERIA",AR| BEUR TV
+http://premium-iptvesun.com:80/play/live.php?mac=00:1A:79:0B:36:26&stream=518623&extension=ts&play_token=nUmfqUCr8o
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/518620.png" group-title="AR| ALGERIA",AR| EL DJAZAIRIA1
+http://premium-iptvesun.com:80/play/live.php?mac=00:1A:79:0B:36:26&stream=518620&extension=ts&play_token=1tobBQg45b
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/518619.png" group-title="AR| ALGERIA",AR| ALANES TV
+http://premium-iptvesun.com:80/play/live.php?mac=00:1A:79:0B:36:26&stream=518619&extension=ts&play_token=sB8LKzmwP0
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/892107.png" group-title="AR| ALGERIA",AR| ALGERIAN 4KIDS
+http://premium-iptvesun.com:80/play/live.php?mac=00:1A:79:0B:36:26&stream=892107&extension=ts&play_token=BgbaDuQDL9
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/arabic/AL-SALAM.png" group-title="AR| ALGERIA",AR| AL SALAM
+http://premium-iptvesun.com:80/play/live.php?mac=00:1A:79:0B:36:26&stream=518618&extension=ts&play_token=SWH2vgsWPm
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/518617.png" group-title="AR| ALGERIA",AR| AL SAHRAA
+http://premium-iptvesun.com:80/play/live.php?mac=00:1A:79:0B:36:26&stream=518617&extension=ts&play_token=B7o6LYdLqj
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/518616.png" group-title="AR| ALGERIA",AR| EL WATANIA TV ALGERIA
+http://premium-iptvesun.com:80/play/live.php?mac=00:1A:79:0B:36:26&stream=518616&extension=ts&play_token=8mUDVrjS2P
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/518614.png" group-title="AR| ALGERIA",AR| ALGERIE ELMAARIFA TV7
+http://premium-iptvesun.com:80/play/live.php?mac=00:1A:79:0B:36:26&stream=518614&extension=ts&play_token=jzShIJOFD7
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1472001.png" group-title="AR| ALGERIA",AR| ALGERIA ONE TV HD
+http://premium-iptvesun.com:80/play/live.php?mac=00:1A:79:0B:36:26&stream=1472001&extension=ts&play_token=FnmOnFz8PU
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/518613.png" group-title="AR| ALGERIA",AR| ALGERIE EN TV 1
+http://premium-iptvesun.com:80/play/live.php?mac=00:1A:79:0B:36:26&stream=518613&extension=ts&play_token=xDGZ2x2qJl
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/518612.png" group-title="AR| ALGERIA",AR| ALGERIE TV8 EDHAKIRA
+http://premium-iptvesun.com:80/play/live.php?mac=00:1A:79:0B:36:26&stream=518612&extension=ts&play_token=4wn1TBEAEm
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/530382.png" group-title="AR| ALGERIA",AR| AL ANIS TV
+http://premium-iptvesun.com:80/play/live.php?mac=00:1A:79:0B:36:26&stream=530382&extension=ts&play_token=RmCegzIk69
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/509328.png" group-title="AR| ALGERIA",AR| ALMAGHARIBIA TV
+http://premium-iptvesun.com:80/play/live.php?mac=00:1A:79:0B:36:26&stream=509328&extension=ts&play_token=2GJ5dx4aEO
