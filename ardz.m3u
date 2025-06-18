@@ -1,55 +1,55 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="dz" tvg-name="|DZ| Programme National" tvg-logo="https://www.lyngsat.com/logo/tv/ee/entv_dz.png" group-title="الجزائر"
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/entv_dz.png" group-title="AR| ALGERIA",AR| الأرضية
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6657
-#EXTINF:-1 tvg-id="dz" tvg-name="|DZ| CANAL ALGERIE" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-algerie-2-sk.png" group-title="الجزائر"
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-algerie-2-sk.png" group-title="AR| ALGERIA",AR| كنال الجيري
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/100716
-#EXTINF:-1 tvg-id="dz" tvg-name="|DZ| A3 ALGERIE" tvg-logo="https://www.lyngsat.com/logo/tv/tt/thalitha-tv-dz.png" group-title="الجزائر"
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/thalitha-tv-dz.png" group-title="AR| ALGERIA",AR| القناة الثالثة
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6659
-#EXTINF:-1 tvg-id="dz" tvg-name="|DZ| TV 4 ALGERIE" tvg-logo="https://www.lyngsat.com/logo/tv/ee/entv_4_tv_tamazight.png" group-title="الجزائر"
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/entv_4_tv_tamazight.png" group-title="AR| ALGERIA",AR| الأمازيغية
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6660
-#EXTINF:-1 tvg-id="dz" tvg-name="|DZ| TV 5 ALGERIE" tvg-logo="https://www.lyngsat.com/logo/tv/ee/entv_5_tv_coran.png" group-title="الجزائر"
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/entv_5_tv_coran.png" group-title="AR| ALGERIA",AR| قناة القرآن"
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6661
-#EXTINF:-1 tvg-id="dz" tvg-name="|DZ| TV 6 Algerie" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-6-dz.png" group-title="الجزائر"
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-6-dz.png" group-title="AR| ALGERIA",AR| السادسة الشبابية"
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6662
-#EXTINF:-1 tvg-id="dz" tvg-name="|DZ| TV 7 ELMAARIFA" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-7-dz.png" group-title="الجزائر"
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-7-dz.png" group-title="AR| ALGERIA",AR| قناة المعرفة"
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6663
-#EXTINF:-1 tvg-id="dz" tvg-name="|DZ| ONE TV" tvg-logo="https://www.lyngsat.com/logo/tv/oo/one-tv-dz.png" group-title="الجزائر"
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/one-tv-dz.png" group-title="AR| ALGERIA",AR| الجزائرية One"
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/148005
-#EXTINF:-1 tvg-id="dz" tvg-name="|DZ| TV8 EDHAKIRA" tvg-logo="https://www.lyngsat.com/logo/tv/ee/entv_dz.png" group-title="الجزائر"
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/entv_dz.png" group-title="AR| ALGERIA",AR| الذاكرة"
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/69450
-#EXTINF:-1 tvg-id="dz" tvg-name="|DZ| Amou Yazid TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/amou-yazid-tv-dz.png" group-title="الجزائر"
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/amou-yazid-tv-dz.png" group-title="AR| ALGERIA",AR| عمو يزيد"
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/116859
-#EXTINF:-1 tvg-id="dz" tvg-name="|DZ| Bahia TV" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bahia_tv_dz.png" group-title="الجزائر"
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bahia_tv_dz.png" group-title="AR| ALGERIA",AR| الباهية"
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6678
-#EXTINF:-1 tvg-id="dz" tvg-name="|DZ| EL BILAD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/el_bilad_news_dz.png" group-title="الجزائر"
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/el_bilad_news_dz.png" group-title="AR| ALGERIA",AR| البلاد"
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6668
-#EXTINF:-1 tvg-id="dz" tvg-name="|DZ| EL HAYAT TV ALGERIE" tvg-logo="https://www.lyngsat.com/logo/tv/ee/el-hayat-tv-dz.png" group-title="الجزائر"
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/el-hayat-tv-dz.png" group-title="AR| ALGERIA",AR| الحياة"
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6670
-#EXTINF:-1 tvg-id="dz" tvg-name="|DZ| EL HEDDAF TV" tvg-logo="https://www.lyngsat.com/logo/tv/ee/el-heddaf-tv-dz.png" group-title="الجزائر"
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/el-heddaf-tv-dz.png" group-title="AR| ALGERIA",AR| الهداف"
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6674
-#EXTINF:-1 tvg-id="dz" tvg-name="|DZ| Echorouk NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/ee/echorouk_tv_news_dz.png" group-title="الجزائر"
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/echorouk_tv_news_dz.png" group-title="AR| ALGERIA",AR| الشروق نيوز"
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6666
-#EXTINF:-1 tvg-id="dz" tvg-name="|DZ| Echorouk TV" tvg-logo="https://www.lyngsat.com/logo/tv/ee/echorouk_tv.png" group-title="الجزائر"
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/echorouk_tv.png" group-title="AR| ALGERIA",AR| الشروق"
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6665
-#EXTINF:-1 tvg-id="dz" tvg-name="|DZ| ENNAHAR TV" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ennahar_dz_tv.png" group-title="الجزائر"
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/ennahar_dz_tv.png" group-title="AR| ALGERIA",AR| النهار"
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6664
-#EXTINF:-1 tvg-id="dz" tvg-name="|DZ| Samira TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/samira_tv_dz.png" group-title="الجزائر"
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/samira_tv_dz.png" group-title="AR| ALGERIA",AR| سميرة"
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6675
-#EXTINF:-1 tvg-id="dz" tvg-name="|DZ| ZAHRA.TV.Algeria" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zahra-tv-dz.png" group-title="الجزائر"
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/zz/zahra-tv-dz.png" group-title="AR| ALGERIA",AR| زهرة"
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/66580
-#EXTINF:-1 tvg-id="dz" tvg-name="|DZ| EL FADJR TV DZ" tvg-logo="https://www.lyngsat.com/logo/tv/ee/el_fadjer_tv_dz.png" group-title="الجزائر"
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/el_fadjer_tv_dz.png" group-title="AR| ALGERIA",AR| قناة الفجر"
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/148826
-#EXTINF:-1 tvg-id="dz" tvg-name="|DZ| El Djazair N1" tvg-logo="https://www.lyngsat.com/logo/tv/ee/el-djazair-n1-dz.png" group-title="الجزائر"
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/el-djazair-n1-dz.png" group-title="AR| ALGERIA",AR| الجزائرية N1"
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6682
-#EXTINF:-1 tvg-id="dz" tvg-name="|DZ| Berbere TV" tvg-logo="https://www.lyngsat.com/logo/tv/bb/brtv.png" group-title="الجزائر"
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/brtv.png" group-title="AR| ALGERIA",AR| Bérbére TV"
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6672
-#EXTINF:-1 tvg-id="dz" tvg-name="|DZ| ELWATANIA TV ALGERIA" tvg-logo="https://www.lyngsat.com/logo/tv/ee/elwatania-tv-dz.png" group-title="الجزائر"
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/elwatania-tv-dz.png" group-title="AR| ALGERIA",AR| الوطنية"
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/17537
-#EXTINF:-1 tvg-id="dz" tvg-name="|DZ| ALGERIAN 4KIDS" tvg-logo="https://www.lyngsat.com/logo/tv/num/4kids-dz.png" group-title="الجزائر"
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/num/4kids-dz.png" group-title="AR| ALGERIA",AR| 4KIDS"
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/148057
-#EXTINF:-1 tvg-id="dz" tvg-name="|DZ| EL FADJR TV DZ" tvg-logo="https://www.lyngsat.com/logo/tv/ee/el_fadjer_tv_dz.png" group-title="الجزائر"
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/el_fadjer_tv_dz.png" group-title="AR| ALGERIA",AR| قناة الفجر 2"
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6669
-#EXTINF:-1 tvg-id="dz" tvg-name="|DZ| AL ANIS TV ALG" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alanis_tv_dz.png" group-title="الجزائر"
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/alanis_tv_dz.png" group-title="AR| ALGERIA",AR| الأنيس"
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/17533
-#EXTINF:-1 tvg-id="dz" tvg-name="|DZ| AL24 News" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-24-news-dz.png" group-title="الجزائر"
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-24-news-dz.png" group-title="AR| ALGERIA",AR| الإخبارية الدولية"
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/69458
