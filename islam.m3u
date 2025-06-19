@@ -1,1 +1,27 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/qq/quran-tv-sa.png" group-title="AR| ALGERIA",AR| القرآن الكريم
+http://megastar06.xyz:80/106053580958/318521198678565f0d323b/147428
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sunna-tv-sa.png" group-title="AR| ALGERIA",AR| السنة النبوية
+http://megastar06.xyz:80/106053580958/318521198678565f0d323b/147427
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/makkah-tv-sa.png" group-title="AR| ALGERIA",AR| مكة
+http://megastar06.xyz:80/106053580958/318521198678565f0d323b/147437
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-majd-channel-sa.png" group-title="AR| ALGERIA",AR| قناة المجد
+http://megastar06.xyz:80/106053580958/318521198678565f0d323b/147429
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_majd_sa_holy_quran.png" group-title="AR| ALGERIA",AR| المجد القرآن
+http://megastar06.xyz:80/106053580958/318521198678565f0d323b/147430
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/entv_dz.png" group-title="AR| ALGERIA",AR| المجد الوثائقية
+http://megastar06.xyz:80/106053580958/318521198678565f0d323b/147433
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/entv_dz.png" group-title="AR| ALGERIA",AR| المجد الطبيعية
+http://megastar06.xyz:80/106053580958/318521198678565f0d323b/147435
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/entv_dz.png" group-title="AR| ALGERIA",AR| المجد العلمية
+http://megastar06.xyz:80/106053580958/318521198678565f0d323b/147431
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/entv_dz.png" group-title="AR| ALGERIA",AR| الرحمة
+http://megastar06.xyz:80/106053580958/318521198678565f0d323b/147440
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_resalah.png" group-title="AR| ALGERIA",AR| الرسالة
+http://megastar06.xyz:80/106053580958/318521198678565f0d323b/147441
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/entv_dz.png" group-title="AR| ALGERIA",AR| الناس
+http://megastar06.xyz:80/106053580958/318521198678565f0d323b/147445
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bin_othaimeen_tv.png" group-title="AR| ALGERIA",AR| ابن العثيمين
+http://megastar06.xyz:80/106053580958/318521198678565f0d323b/147446
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/entv_dz.png" group-title="AR| ALGERIA",AR| صفا
+http://megastar06.xyz:80/106053580958/318521198678565f0d323b/147439
