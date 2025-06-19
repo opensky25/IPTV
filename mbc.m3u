@@ -1,60 +1,59 @@
 #EXTM3U
-#EXTINF:-1,MBC 1 HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-sa.svg" group-title="AR| MBC Group",AR| MBC 1 HD
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/7163
-#EXTINF:-1,MBC 2 HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-2-sa.svg" group-title="AR| MBC Group",AR| MBC 2 HD
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/7164
-#EXTINF:-1,MBC 3 HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-3-sa.svg" group-title="AR| MBC Group",AR| MBC 3 HD
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/7165
-#EXTINF:-1,MBC 4 HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-4-sa.svg" group-title="AR| MBC Group",AR| MBC 4 HD
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/7166
-#EXTINF:-1,MBC 5 HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-5-sa.svg" group-title="AR| MBC Group",AR| MBC 5 HD
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/7167
-#EXTINF:-1,MBC Max HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-max-sa.svg" group-title="AR| MBC Group",AR| MBC MAX HD
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/131859
-#EXTINF:-1,My-HD MBC Drama + HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-drama-plus-sa.svg" group-title="AR| MBC Group",AR| MBC Drama + HD
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/7176
-#EXTINF:-1,MBC IRAQ HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-iraq-sa.svg" group-title="AR| MBC Group",AR| MBC IRAQ HD
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/131860
-#EXTINF:-1,MBC Bollywood HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-bollywood-sa.svg" group-title="AR| MBC Group",AR| MBC Bollywood HD
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/131858
-#EXTINF:-1,ZEE AFLAM
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-aflam-in.png" group-title="AR| MBC Group",AR| ZEE AFLAM
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/7171
-#EXTINF:-1,ZEE ALWAN
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-alwan-in.png" group-title="AR| MBC Group",AR| ZEE ALWAN
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/7172
-#EXTINF:-1,MBC PREMIUM 2
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-2-sa.svg" group-title="AR| MBC Group",AR| MBC PREMIUM 2
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/131862
-#EXTINF:-1,MBC Action HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-action-sa.svg" group-title="AR| MBC Group",AR| MBC Action HD
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/7168
-#EXTINF:-1,MBC Bollywood
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-bollywood-sa.svg" group-title="AR| MBC Group",AR| MBC Bollywood
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/7170
-#EXTINF:-1,MBC MAX
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-max-sa.svg" group-title="AR| MBC Group",AR| MBC MAX
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/7169
-#EXTINF:-1,MBC Drama HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-drama-sa.svg" group-title="AR| MBC Group",AR| MBC Drama HD
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/7175
-#EXTINF:-1,|.GO.|_MBC ACTION EU red
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-action-sa.svg" group-title="AR| MBC Group",AR| MBC ACTION EU Red
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/117527
-#EXTINF:-1,|.GO.|_MBC DOCS
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/6696.png" group-title="AR| MBC Group",AR| MBC DOCS
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/117528
-#EXTINF:-1,|.GO.|_MBC XTRA
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/6696.png" group-title="AR| MBC Group",AR| MBC XTRA
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/117534
-#EXTINF:-1,MBC Masr 1 HD
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/6696.png" group-title="AR| MBC Group",AR| MBC Masr 1 HD
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/7177
-#EXTINF:-1,MBC Masr 2 HD
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/6696.png" group-title="AR| MBC Group",AR| MBC Masr 2 HD
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/7178
-#EXTINF:-1,Panorama FM HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/panorama-fm-tv-sa.svg" group-title="AR| MBC Group",AR| Panorama FM HD
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/7182
-#EXTINF:-1,|Ar.mbc| MBC Anime HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WpFk5tmg/mbc-anime.jpg" group-title="AR| MBC Group",AR| MBC Anime HD
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/157549
-#EXTINF:-1,|Ar.mbc| MBC ONE HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-1-mu.png" group-title="AR| MBC Group",AR| MBC ONE HD
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/157544
-#EXTINF:-1,|Ar.mbc| MBC Power HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_plus_power.png" group-title="AR| MBC Group",AR| MBC Power HD
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/157547
-#EXTINF:-1,|Ar.mbc| MBC Premium HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MGHTXrdV/MBC-Group-Logo.png" group-title="AR| MBC Group",AR| MBC Premium HD
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/157543
-#EXTINF:-1,|Ar.mbc| MBC Seven HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MGHTXrdV/MBC-Group-Logo.png" group-title="AR| MBC Group",AR| MBC Seven HD
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/157545
-#EXTINF:-1,|Ar.mbc| MBC TEN HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MGHTXrdV/MBC-Group-Logo.png" group-title="AR| MBC Group",AR| MBC TEN HD
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/157546
-#EXTINF:-1,|Ar.mbc| MBC ZOOM HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MGHTXrdV/MBC-Group-Logo.png" group-title="AR| MBC Group",AR| MBC ZOOM HD
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/157548
-
