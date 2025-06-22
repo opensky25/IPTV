@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="tf1.hd" tvg-name="TF1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tf1.png" group-title="General",TF1 HD
+http://megastar06.xyz:80/106053580958/318521198678565f0d323b/14646
+#EXTINF:-1 tvg-id="tf1.fulhd" tvg-name="TF1 FULHD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tf1.png" group-title="General",TF1 FULHD
+http://megastar06.xyz:80/106053580958/318521198678565f0d323b/132465
+#EXTINF:-1 tvg-id="m6.hd" tvg-name="M6 HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/m6-fr.svg" group-title="General",M6 HD
+http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6730
+#EXTINF:-1 tvg-id="tf1.series-films.hd" tvg-name="TF1 SERIES-FILMS HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tf1-series-films-fr.png" group-title="General",TF1 SERIES-FILMS HD
+http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6742
+#EXTINF:-1 tvg-id="tfx.hd" tvg-name="TFX HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tfx-fr.png" group-title="General",TFX HD
+http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6735
+#EXTINF:-1 tvg-id="france.2.hd" tvg-name="FRANCE 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/france-2-fr.svg" group-title="General",FRANCE 2 HD
+http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6725
+#EXTINF:-1 tvg-id="france.3.hd" tvg-name="FRANCE 3 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/france-3-fr.svg" group-title="General",FRANCE 3 HD
+http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6726
+#EXTINF:-1 tvg-id="france.4.hd" tvg-name="FRANCE 4 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/france-4-fr.svg" group-title="General",FRANCE 4 HD
+http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6727
+#EXTINF:-1 tvg-id="france.5.hd" tvg-name="FRANCE 5 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/france-5-fr.svg" group-title="General",FRANCE 5 HD
+http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6728
+#EXTINF:-1 tvg-id="w9.hd" tvg-name="W9 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ww/w9_fr.png" group-title="General",W9 HD
+http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6733
+#EXTINF:-1 tvg-id="6ter.hd" tvg-name="6TER HD" tvg-logo="https://www.lyngsat.com/logo/tv/num/6ter_fr.png" group-title="General",6TER HD
+http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6734
+#EXTINF:-1 tvg-id="tmc.hd" tvg-name="TMC HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tmc-fr.svg" group-title="General",TMC HD
+http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6740
+#EXTINF:-1 tvg-id="rtl9.hd" tvg-name="RTL9 HD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtl-9-lu.png" group-title="General",RTL9 HD
+http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6743
+#EXTINF:-1 tvg-id="tv.breizh.hd" tvg-name="TV BREIZH HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv_breizh_fr.png" group-title="General",TV BREIZH HD
+http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6744
+#EXTINF:-1 tvg-id="ab1.hd" tvg-name="AB1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ab-1-fr.png" group-title="General",AB1 HD
+http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6745
+#EXTINF:-1 tvg-id="ab3" tvg-name="AB3" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ab-3-fr-be.png" group-title="General",AB3
+http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6746
+#EXTINF:-1 tvg-id="fr:.arte.hd" tvg-name="FR: ARTE HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arte-fr.svg" group-title="General",FR: ARTE HD
+http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6748
+#EXTINF:-1 tvg-id="cherie.25.hd" tvg-name="CHERIE 25 HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cherie-25-fr.svg" group-title="General",CHERIE 25 HD
+http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6738
+#EXTINF:-1 tvg-id="tv5.monde" tvg-name="TV5  MONDE" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv5monde-europe-fr.png" group-title="General",TV5  MONDE
+http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6749
+#EXTINF:-1 tvg-id="cstar.hd" tvg-name="CSTAR HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/c-star-fr.png" group-title="General",CSTAR HD
+http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6736
+#EXTINF:-1 tvg-id="rmc.story.hd" tvg-name="RMC STORY HD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rmc-story-fr.png" group-title="General",RMC STORY HD
+http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6739
+#EXTINF:-1 tvg-id="rts.deux" tvg-name="RTS DEUX" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rts-2-ch.svg" group-title="General",RTS DEUX
+http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6732
+#EXTINF:-1 tvg-id="rts.un" tvg-name="RTS UN" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rts-1-ch.svg" group-title="General",RTS UN
+http://megastar06.xyz:80/106053580958/318521198678565f0d323b/6731
+#EXTINF:-1 tvg-id="fr:teva.hd" tvg-name="FR:Teva.HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/teva_fr.png" group-title="General",FR:Teva.HD
+http://megastar06.xyz:80/106053580958/318521198678565f0d323b/154880
