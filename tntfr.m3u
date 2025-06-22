@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="tf1.hd" tvg-name="TF1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tf1.png" group-title="General",TF1 HD
-http://megastar06.xyz:80/106053580958/318521198678565f0d323b/14646
 #EXTINF:-1 tvg-id="tf1.fulhd" tvg-name="TF1 FULHD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tf1.png" group-title="General",TF1 FULHD
 http://megastar06.xyz:80/106053580958/318521198678565f0d323b/132465
 #EXTINF:-1 tvg-id="france.2.hd" tvg-name="FRANCE 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/france-2-fr.svg" group-title="General",FRANCE 2 HD
